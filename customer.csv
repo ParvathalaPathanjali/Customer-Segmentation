@@ -1,0 +1,11 @@
+Customer ID,Age,Gender,Purchase Amount (USD),Previous Purchases
+101,25,Male,120,3
+102,30,Female,200,5
+103,28,Male,150,1
+104,35,Female,300,7
+105,22,Female,80,2
+106,40,Male,350,10
+107,31,Female,180,4
+108,27,Male,160,3
+109,45,Male,400,9
+110,29,Female,210,6
